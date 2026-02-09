@@ -42,7 +42,7 @@ PS C:\> .\remediation_WN11-EP-000310.ps1
 ![Policy Enabled Block All](Enumeration_Policy_Enabled_Block_All.png)
 
 ### Manual Verification - Group Policy Update
-![GPUpdate Force](GPUpdate_Force_Success.png)
+![GPUpdate Force](Windows-STIG-WN11-EP-000310-Symone)
 
 ### Manual Verification - Registry Editor
 ![Registry Verification](Registry_Verification_DeviceEnumerationPolicy.png)
